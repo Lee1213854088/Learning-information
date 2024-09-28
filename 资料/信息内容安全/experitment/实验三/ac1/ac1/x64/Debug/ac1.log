@@ -1,0 +1,4 @@
+﻿  ac.cpp
+C:\Users\王紫瑜\Desktop\信息内容安全\experitment\实验三\ac1\ac1\ac.cpp(226,27): warning C4474: scanf_s: 格式字符串中传递的参数太多
+C:\Users\王紫瑜\Desktop\信息内容安全\experitment\实验三\ac1\ac1\ac.cpp(226,27): message : 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+  ac1.vcxproj -> C:\Users\王紫瑜\Desktop\信息内容安全\experitment\实验三\ac1\x64\Debug\ac1.exe
